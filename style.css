@@ -6,7 +6,10 @@ html, body{
 		align-content: center;
 		background-color: hsl(30, 54%, 90%);
 		font-size: 16px;
-		font-family: ;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
 img{
@@ -18,6 +21,9 @@ img{
 h1, h2 {
 		font-style: ;
 		color: hsl(14, 45%, 36%);
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .container{
